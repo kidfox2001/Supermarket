@@ -1,0 +1,72 @@
+﻿@model Supermarket.Models.Order
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+    </dl>
+</div>
+
+<h3>Line Items</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="width:120px">Name</th>
+            <th style="width:80px" class="text-right">Price</th>
+            <th style="width:80px" class="text-right">Quantity</th>
+            <th style="width:80px" class="text-right">Total</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model.LineItems)
+        {
+            <tr>
+                <td style="width:120px">@item.Product.Name</td>
+                <th style="width:80px" class="text-right">@item.Price</th>
+                <th style="width:80px" class="text-right">@item.Quantity</th>
+                <th style="width:80px" class="text-right">@item.Total</th>
+            </tr>
+        }
+    </tbody>
+
+    <tfoot>
+        <tr>
+            <td style="width:120px">Total</td>
+            <th style="width:80px" class="text-right"></th>
+            <th style="width:80px" class="text-right"></th>
+            <th style="width:80px" class="text-right">@Model.Total</th>
+        </tr>
+    </tfoot>
+
+</table>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

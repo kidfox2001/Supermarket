@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h2>Products</h2>
+
+@*<a href="~/Prducts/Create">Add New</a>
+    <a href="@Url.Action("Create","Product")"> </a>*@
+<a asp-action="Create" asp-controller="Products" class="btn btn-info btn-xs">Add New</a>
+
+<button id="btn1" class="btn btn-success">Toggle Table</button>
+
+<table id="tbl1" class="table">
+    <thead>
+        <tr>
+            <th></th>
+            <th style="width:120px">Name</th>
+            <th style="width:120px" class="text-right">Units In Stock</th>
+            <th style="width:80px" class="text-right">Price</th>
+            <th style="width:120px" class="text-center">Discontinued?</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>
+                    <img src="~/Products/Picture/@p.SKU" width="100" class="img-rounded" />
+                </td>
+                <td style="width:120px" >@p.Name</td>
+                <td style="width:120px" class="text-right">@p.UnitsInStock</td>
+                <td style="width:80px" class="text-right" >@p.Price</td>
+                <td style="width:120px" class="text-center">@Html.Raw(@p.Discontinoued ? "Yse" : "&ndash;")</td>
+            </tr>
+        }
+    </tbody>
+
+    <tfoot>
+        <tr>
+            <th></th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tfoot>
+</table>
+
+
+@section Scripts
+{
+    <script>
+
+        $("#tbl1").DataTable()
+
+        $("button#btn1").click(fn1);
+
+        function fn1() {
+            $("#tbl1").toggle("slow");
+        }
+
+    </script>
+
+}
+
+
+
+

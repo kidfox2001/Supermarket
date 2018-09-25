@@ -1,0 +1,51 @@
+﻿@model Product
+@{
+    Layout = "_Layout2";
+    ViewData["Title"] = "Test";
+}
+
+<h2>
+    @Model.Name
+
+    @if (Model.Discontinoued)
+    {
+        <span class="badge progress-bar-danger">Discontinued</span>
+    }
+    else
+    {
+        <span class="badge progress-bar-success">Continued</span>
+    }
+</h2>
+<p>Units in stock: @Model.UnitsInStock PCS.</p>
+
+<div class="well well-sm">
+    @*action="/Products/ReduceStock"*@
+    <form asp-controller="Products" asp-action="ReduceStock" asp-route-sku="@Model.SKU" method="post" class="pull-left" style="margin-right:20px">
+        <input type="number" name="qty" />
+        <button class="btn btn-danger">Reduce</button>
+    </form>
+
+    @*ลากคุมกด alt+shif+w*@
+    <form asp-controller="Products" asp-action="IncreaseStock" asp-route-sku="@Model.SKU" method="post">
+        <input type="number" name="qty" />
+        <button class="btn btn-success">Increase</button>
+    </form>
+</div>
+
+<div class="well well-sm">
+    <form action="/Products/SetDiscontinue" method="post">
+        <button class="btn btn-danger" style="margin-right:20px" disabled="@Model.Discontinoued">Discontinue</button>
+        <button class="btn btn-success" formaction="/Products/SetContinue" disabled="@(!Model.Discontinoued)">Continue</button>
+    </form>
+</div>
+
+
+<div class="well well-sm">
+    <form method="post">
+        <label style="margin-right:10px">price</label>
+        <input name="newPrice" type="number" value="@Model.Price" />
+        <button class="btn btn-success" formaction="/Products/AdjustCost">Adjust</button>
+    </form>
+</div>
+
+

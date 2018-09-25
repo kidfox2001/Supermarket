@@ -1,0 +1,67 @@
+﻿@model Order
+
+@{
+    ViewData["Title"] = "Order";
+}
+
+<h2>Order</h2>
+
+@*เมื่อไหร่ต้องใช้ method post*@
+@*<form asp-action="Scan" asp-controller="Orders">
+    <select name="sku" asp-items="ViewBag.ProductList" ></select>
+    <button class="btn btn-primary">Scan</button>
+</form>*@
+
+<form asp-action="Scan" asp-controller="Orders" method="post" >
+    <div class="row">
+        <div class="col-md-2 col-xs-6">
+            <select name="sku" asp-items="ViewBag.ProductList" class="form-control"></select>
+        </div>
+        <div class="col-md-2 col-xs-6">
+            <button type="submit" class="btn btn-success">Scan</button>
+        </div>
+    </div>
+</form>
+
+<h3>Line Items</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="width:120px">Name</th>
+            <th style="width:80px" class="text-right">Price</th>
+            <th style="width:80px" class="text-right">Quantity</th>
+            <th style="width:80px" class="text-right">Total</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model.LineItems)
+        {
+            <tr>
+                <td style="width:120px">@item.Product.Name</td>
+                <th style="width:80px" class="text-right">@item.Price</th>
+                <th style="width:80px" class="text-right">@item.Quantity</th>
+                <th style="width:80px" class="text-right">@item.Total</th>
+            </tr>
+        }
+    </tbody>
+
+    <tfoot>
+        <tr>
+            <td style="width:120px">Total</td>
+            <th style="width:80px" class="text-right"></th>
+            <th style="width:80px" class="text-right"></th>
+            <th style="width:80px" class="text-right">@Model.Total</th>
+        </tr>
+    </tfoot>
+
+</table>
+
+
+<form asp-action="Checkout">
+    <button type="submit" class="btn btn-primary btn-lg">Checkout</button>
+</form>
+
+
+
