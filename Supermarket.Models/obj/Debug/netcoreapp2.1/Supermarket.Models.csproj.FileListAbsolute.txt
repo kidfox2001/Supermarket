@@ -7,3 +7,20 @@ D:\mvccore\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Mo
 D:\mvccore\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.dll
 D:\mvccore\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.pdb
 D:\mvccore\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.csprojAssemblyReference.cache
+D:\Code Git\Supermarket\Supermarket.Models\bin\Debug\netcoreapp2.1\Supermarket.Models.deps.json
+D:\Code Git\Supermarket\Supermarket.Models\bin\Debug\netcoreapp2.1\Supermarket.Models.dll
+D:\Code Git\Supermarket\Supermarket.Models\bin\Debug\netcoreapp2.1\Supermarket.Models.pdb
+D:\Code Git\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.csproj.CoreCompileInputs.cache
+D:\Code Git\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.AssemblyInfoInputs.cache
+D:\Code Git\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.AssemblyInfo.cs
+D:\Code Git\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.dll
+D:\Code Git\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.pdb
+D:\CodeGitBk\Supermarket\Supermarket.Models\bin\Debug\netcoreapp2.1\Supermarket.Models.deps.json
+D:\CodeGitBk\Supermarket\Supermarket.Models\bin\Debug\netcoreapp2.1\Supermarket.Models.dll
+D:\CodeGitBk\Supermarket\Supermarket.Models\bin\Debug\netcoreapp2.1\Supermarket.Models.pdb
+D:\CodeGitBk\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.csprojAssemblyReference.cache
+D:\CodeGitBk\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.csproj.CoreCompileInputs.cache
+D:\CodeGitBk\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.AssemblyInfoInputs.cache
+D:\CodeGitBk\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.AssemblyInfo.cs
+D:\CodeGitBk\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.dll
+D:\CodeGitBk\Supermarket\Supermarket.Models\obj\Debug\netcoreapp2.1\Supermarket.Models.pdb

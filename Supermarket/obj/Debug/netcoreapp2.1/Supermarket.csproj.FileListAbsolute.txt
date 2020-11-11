@@ -50,3 +50,112 @@ D:\mvccore\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Vie
 D:\mvccore\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
 D:\mvccore\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
 D:\mvccore\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.deps.json
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.json
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.dev.json
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.dll
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.pdb
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.Views.dll
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.Views.pdb
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.Models.dll
+D:\Code Git\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.Models.pdb
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csprojAssemblyReference.cache
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csproj.CoreCompileInputs.cache
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorAssemblyInfo.cache
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorAssemblyInfo.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfoInputs.cache
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfo.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.TagHelpers.input.cache
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.TagHelpers.output.cache
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorCoreGenerate.cache
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Create.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Delete.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Details.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Edit.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Index.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Error.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout2.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Products\Test.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout2.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorTargetAssemblyInfo.cache
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorTargetAssemblyInfo.cs
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.Views.pdb
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csproj.CopyComplete
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.dll
+D:\Code Git\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.pdb
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\appsettings.json
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\bower.json
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.deps.json
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.json
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.dev.json
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.dll
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.pdb
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.Views.dll
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.Views.pdb
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.Models.dll
+D:\CodeGitBk\Supermarket\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.Models.pdb
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csprojAssemblyReference.cache
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csproj.CoreCompileInputs.cache
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorAssemblyInfo.cache
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorAssemblyInfo.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfoInputs.cache
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfo.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.TagHelpers.input.cache
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.TagHelpers.output.cache
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorCoreGenerate.cache
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Create.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Delete.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Details.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Edit.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout2.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Products\Test.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorTargetAssemblyInfo.cache
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.RazorTargetAssemblyInfo.cs
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.Views.pdb
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csproj.CopyComplete
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.dll
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.pdb
+D:\CodeGitBk\Supermarket\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.genruntimeconfig.cache
